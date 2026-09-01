@@ -13,6 +13,7 @@ const iniciarServidor = async () => {
 
     app.listen(PORT, () => {
         console.log(`Servidor ejecutándose en el puerto${PORT} por Lau`);
+
     });
 };
 
